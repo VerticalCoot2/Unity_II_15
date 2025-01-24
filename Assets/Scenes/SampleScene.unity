@@ -293,7 +293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f5d36c60f6c3884f8f1888e131e7773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerTransform: {fileID: 0}
+  playerTransform: {fileID: 119009284}
   baseSpeed: 5
   speed: 0
   checkpointCounter: 0
